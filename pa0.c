@@ -12,21 +12,19 @@ double computeSquare(double x) {
 
 int gcd(int y, int z) {
     int gcd = 0;
-    int min;
 
-    if(y > z) {
-        min = z;
-    } else {
-        min = y;
-    }
+    int absy = y < 0 ? -y : y;
+    int absz = z < 0 ? -z : z;
 
-    for(int i = 1; i <= min; i ++) {
+    int min = absy < absz ? absy : absz;
+
+    for(int i=1; i<=min; i++) {
         if (y % i == 0 && z % i == 0) {
             gcd = i;
         }
     }
 
-	return gcd;
+    return gcd;
 }
 
 //Given function to be used in findSumPrimes
