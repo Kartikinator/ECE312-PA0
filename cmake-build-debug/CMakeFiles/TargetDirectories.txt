@@ -1,0 +1,3 @@
+C:/Users/karti/Downloads/PA0_starter_files/cmake-build-debug/CMakeFiles/PA0_starter_files.dir
+C:/Users/karti/Downloads/PA0_starter_files/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/karti/Downloads/PA0_starter_files/cmake-build-debug/CMakeFiles/rebuild_cache.dir

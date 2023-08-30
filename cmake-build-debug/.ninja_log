@@ -1,0 +1,12 @@
+# ninja log v5
+0	651	7150428020634055	CMakeFiles/PA0_starter_files.dir/pa0.c.obj	d80f383f94a6411
+68	1129	7150428025416249	CMakeFiles/PA0_starter_files.dir/pa0_test.c.obj	954446780313f42f
+1129	1371	7150428027786310	PA0_starter_files.exe	f0a320eb21b97a7f
+2	709	7151084308383855	CMakeFiles/PA0_starter_files.dir/pa0.c.obj	d80f383f94a6411
+709	994	7151084311124154	PA0_starter_files.exe	f0a320eb21b97a7f
+2	652	7151086021990603	CMakeFiles/PA0_starter_files.dir/pa0.c.obj	d80f383f94a6411
+653	875	7151086024148715	PA0_starter_files.exe	f0a320eb21b97a7f
+2	599	7151086430244742	CMakeFiles/PA0_starter_files.dir/pa0.c.obj	d80f383f94a6411
+600	839	7151086432581753	PA0_starter_files.exe	f0a320eb21b97a7f
+2	648	7151101199044150	CMakeFiles/PA0_starter_files.dir/pa0.c.obj	d80f383f94a6411
+648	874	7151101201229923	PA0_starter_files.exe	f0a320eb21b97a7f
